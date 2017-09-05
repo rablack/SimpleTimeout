@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SimpleTimeout	KEYWORD1
+SimpleTimeoutMicros	KEYWORD1
+SimpleTimeoutTemplate	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+restart	KEYWORD2
+expired	KEYWORD2
+getStart	KEYWORD2
+getEnd	KEYWORD2
+getDuration	KEYWORD2
+isForever	KEYWORD2
+isDisabled	KEYWORD2
+cancel	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+FOREVER	LITERAL1
